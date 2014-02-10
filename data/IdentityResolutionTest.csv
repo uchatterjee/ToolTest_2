@@ -1,0 +1,6 @@
+FirstName,MiddleName,LastName,SSN,DOB,Gender,Grade Level,Meal Status,Title I Status,Gifted/Talented Status,Special Education,Handicap Status,Migrant Status,Marital Status,Homeless Status,Homeless Type,Orphan Status,Foster Child Status,Limited English Proficiency,Primary Home Language Status
+SUNNYDALE,JAY,HYDE,612399206,00:00.0,F,3,1,Y,N,N,N,N,S,N,NA,N,N,Y,ES
+TYLER,JAMES,DRISKELL,677034383,00:00.0,F,5,1,Y,N,N,N,N,S,N,NA,N,N,Y,ES
+DAYSHA,,JONES,432911494,00:00.0,F,10,1,Y,N,N,N,N,S,N,NA,N,N,N,EN
+DAYSHA,ANN,STRICKLAND,676031348,00:00.0,F,4,1,Y,N,N,N,N,S,N,NA,N,N,N,EN
+Ann,li,STR,676031348,00:00.0,F,4,1,Y,N,N,N,N,S,N,NA,N,N,N,EN

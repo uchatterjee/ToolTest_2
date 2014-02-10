@@ -1,0 +1,1 @@
+This tool provides a means for the user to upload data on to the server in a particular format and run Identity Resolution on it against a preset knowledge base. 
